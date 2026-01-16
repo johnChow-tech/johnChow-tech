@@ -6,21 +6,25 @@
 </div>
 
 ## 🥷Background
-Bridging the gap between Robust Quality Assurance and Frontend Development.
+Bridging the gap between Robust Quality Assurance and Frontend Development.<br>
 With 3 years of experience in FinTech and SaaS ecosystems, I focus on optimizing the development lifecycle — leveraging Python and AI to transform manual bottlenecks into automated workflows.  
 
 ## 🚀 Expertise
-
-- 🛠 **Quality Assurance:**
+- 🛠 **Quality Assurance:**<br>
  Experience in full-cycle testing (UT/IT/ST) for high-traffic financial systems and SaaS platforms.
-- ⚡ **Workflow Automation:**
+
+- ⚡ **Workflow Automation:**<br>
  Developed LLM-based review tools and Python scripts that slashed manual verification from 90 mins to 3 mins.
-- 🌐 **Web Development:**
+
+- 🌐 **Web Development:**<br>
  Building UI components with Vue and TypeScript, backed by deep logic verification experience in Java (Spring) and PHP (Symfony).
-- 🏗 **Infrastructure Awareness:**
+
+- 🏗 **Infrastructure Awareness:**<br>
  Hands-on exposure to Kubernetes (K8s) environments and Airflow migrations.
-- 🤝 **Bridge Communication:**
+
+- 🤝 **Bridge Communication:**<br>
  Facilitating collaboration with international teams using English and Japanese.
+
 
 ## 💻 Tech Stack
 
@@ -30,12 +34,11 @@ With 3 years of experience in FinTech and SaaS ecosystems, I focus on optimizing
 | **Frameworks**         | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                  |
 | **Tools & Platforms**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google-apps-script&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)                                                                                                                                                                                                                                                                                            |
 | **Collaboration & AI** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-
 <br/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
   <picture>
     <source
       srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent&title_color=feffff&text_color=c9d1d9&icon_color=79c0ff&bg_color=00000000"

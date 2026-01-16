@@ -12,18 +12,16 @@
 
 ## 🥷Background
 Bridging the gap between Robust Quality Assurance and Frontend Development.<br>
-With 3 years of experience in FinTech ecosystems, I focus on optimizing the development lifecycle — leveraging Python and AI to transform manual bottlenecks into automated workflows.  
+With 3 years of experience in FinTech ecosystems, I focus on optimizing the development lifecycle.  
 
 ## 🚀 Expertise
 ### 🛠 Quality Assurance:<br>
  Experience in full-cycle testing (UT/IT/ST/PT/OT) for high-traffic financial systems.
 
 ### ⚡ Workflow Automation:<br>
- - Developed LLM-based microsoft documents review tools and Python scripts that slashed manual verification from **90** mins to **3** mins.
- [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/office-files-quality-check)
+ - Developed LLM-based microsoft documents review tools and Python scripts that slashed manual verification from **90** mins to **3** mins.<br> [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/office-files-quality-check)
 
- - **Automated HTML & Resource Validator for FTP:** Bridging the gap between rapid development and strict Quality Assurance.
- [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/html-ftp-checke)
+ - **Automated HTML & Resource Validator for FTP:** Bridging the gap between rapid development and strict Quality Assurance.<br> [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/html-ftp-checker)
 
 ### 🌐 Web Development:<br>
  Building UI components with Vue and TypeScript, backed by deep logic verification experience in Java (Spring) and PHP (Symfony).

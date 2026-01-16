@@ -1,15 +1,26 @@
 <div align="center">
   <h1>👋 Hi there, I'm Chow!</h1>
   <p>
-    A passionate Full Stack Developer | Tech Enthusiast
+    <strong>QA Engineer & Frontend Developer | Automation & DX admirer</strong>
   </p>
 </div>
 
+## 🥷Background
+Bridging the gap between Robust Quality Assurance and Frontend Development.
+With 3 years of experience in FinTech and SaaS ecosystems, I focus on optimizing the development lifecycle — leveraging Python and AI to transform manual bottlenecks into automated workflows.  
+
 ## 🚀 Expertise
 
-- 🔭 Working on **Enterprise Solutions**
-- 🌱 Learning **AI Integration**
-- 💬 Ask me about **Java, Python, & Vue.js**
+- 🛠 **Quality Assurance:**
+ Experience in full-cycle testing (UT/IT/ST) for high-traffic financial systems and SaaS platforms.
+- ⚡ **Workflow Automation:**
+ Developed LLM-based review tools and Python scripts that slashed manual verification from 90 mins to 3 mins.
+- 🌐 **Web Development:**
+ Building UI components with Vue and TypeScript, backed by deep logic verification experience in Java (Spring) and PHP (Symfony).
+- 🏗 **Infrastructure Awareness:**
+ Hands-on exposure to Kubernetes (K8s) environments and Airflow migrations.
+- 🤝 **Bridge Communication:**
+ Facilitating collaboration with international teams using English and Japanese.
 
 ## 💻 Tech Stack
 

@@ -1,5 +1,10 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Chow!</h1>
+  <h1>
+  👋Hi there, I'm
+  <span style="background: linear-gradient(120deg, #1e90ff, #8a2be2, #ff0080); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Chow!
+  </span>
+</h1>
   <p>
     <strong>QA Engineer & Frontend Developer | Automation & DX admirer</strong>
   </p>
@@ -7,22 +12,26 @@
 
 ## 🥷Background
 Bridging the gap between Robust Quality Assurance and Frontend Development.<br>
-With 3 years of experience in FinTech and SaaS ecosystems, I focus on optimizing the development lifecycle — leveraging Python and AI to transform manual bottlenecks into automated workflows.  
+With 3 years of experience in FinTech ecosystems, I focus on optimizing the development lifecycle — leveraging Python and AI to transform manual bottlenecks into automated workflows.  
 
 ## 🚀 Expertise
-- 🛠 **Quality Assurance:**<br>
- Experience in full-cycle testing (UT/IT/ST) for high-traffic financial systems and SaaS platforms.
+### 🛠 Quality Assurance:<br>
+ Experience in full-cycle testing (UT/IT/ST/PT/OT) for high-traffic financial systems.
 
-- ⚡ **Workflow Automation:**<br>
- Developed LLM-based review tools and Python scripts that slashed manual verification from 90 mins to 3 mins.
+### ⚡ Workflow Automation:<br>
+ - Developed LLM-based microsoft documents review tools and Python scripts that slashed manual verification from **90** mins to **3** mins.
+ [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/office-files-quality-check)
 
-- 🌐 **Web Development:**<br>
+ - **Automated HTML & Resource Validator for FTP:** Bridging the gap between rapid development and strict Quality Assurance.
+ [![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/html-ftp-checke)
+
+### 🌐 Web Development:<br>
  Building UI components with Vue and TypeScript, backed by deep logic verification experience in Java (Spring) and PHP (Symfony).
 
-- 🏗 **Infrastructure Awareness:**<br>
+### 🏗 Infrastructure Awareness:<br>
  Hands-on exposure to Kubernetes (K8s) environments and Airflow migrations.
 
-- 🤝 **Bridge Communication:**<br>
+### 🤝 Bridge Communication:<br>
  Facilitating collaboration with international teams using English and Japanese.
 
 
@@ -34,7 +43,7 @@ With 3 years of experience in FinTech and SaaS ecosystems, I focus on optimizing
 | **Frameworks**         | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                  |
 | **Tools & Platforms**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google-apps-script&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)                                                                                                                                                                                                                                                                                            |
 | **Collaboration & AI** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-<br/>
+
 
 ## 📊 GitHub Stats
 

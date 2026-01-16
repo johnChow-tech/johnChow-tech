@@ -44,6 +44,12 @@ With 3 years of experience in FinTech ecosystems, I focus on optimizing the deve
 | **Tools & Platforms**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat-square&logo=google-apps-script&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)                                                                                                                                                                                                                                                                                            |
 | **Collaboration & AI** | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
+## 🎮Beyond coding
+- **🎮 Gaming**: A big fan of CRPGs like *Divinity: Original Sin 2*, Tetris and Nintendo games.
+- **💬 ACG**: Huge fan of *The Legend of Hei*, *Delicious in Dungeon*, and *The iDOLM@STER: Cinderella Girls*.
+- **☕ Coffee**: I love the ritual of brewing with a Moka Pot. But a bad taster.
+- **🎞️ Cinema**: A regular at the theaters. I go 1-4 times a month.
+- **⛰️ Hiking**: Escaping to the mountains for a full-day hike.
 
 ## 📊 GitHub Stats
 

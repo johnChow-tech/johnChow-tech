@@ -54,11 +54,11 @@ With 3 years of experience in FinTech ecosystems, I focus on optimizing the deve
 <div align="start">
   <picture>
     <source
-      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent&title_color=feffff&text_color=c9d1d9&icon_color=79c0ff&bg_color=00000000"
+      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent&title_color=feffff&text_color=c9d1d9&icon_color=79c0ff&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
           />
     <source
-      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent&title_color=24292f&text_color=57606a&icon_color=0969da&bg_color=00000000"
+      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&hide_rank=true&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent&title_color=24292f&text_color=57606a&icon_color=0969da&bg_color=00000000"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api?username=johnChow-tech&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide_title=true&hide_border=true&theme=transparent" height="150" alt="stats graph" />
@@ -66,7 +66,7 @@ With 3 years of experience in FinTech ecosystems, I focus on optimizing the deve
 
   <picture>
     <source
-      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api/top-langs/?username=johnChow-tech&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact&hide_border=true&theme=transparent&title_color=feffff&text_color=c9d1d9&icon_color=79c0ff&bg_color=00000000"
+      srcset="https://github-readme-stats-lake-six-ipcu21hdhf.vercel.app/api/top-langs/?username=johnChow-tech&hide_rank&show_icons=true&count_private=true&include_all_commits=true&locale=en&layout=compact&hide_border=true&theme=transparent&title_color=feffff&text_color=c9d1d9&icon_color=79c0ff&bg_color=00000000"
       media="(prefers-color-scheme: dark)"
     />
     <source

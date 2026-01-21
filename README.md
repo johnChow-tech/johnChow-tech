@@ -9,6 +9,10 @@
     <strong>QA Engineer & Frontend Developer | Automation & DX admirer</strong>
   </p>
 </div>
+<details>
+<summary>🇯🇵 日本語の紹介はこちら（Click to expand）</summary>
+<!-- TODO: 增加日语的简介 -->
+</details>
 
 ## 🥷Background
 Bridging the gap between Robust Quality Assurance and Frontend Development.<br>
@@ -25,6 +29,9 @@ With 3 years of experience in FinTech ecosystems, I focus on optimizing the deve
 
 ### 🌐 Web Development:<br>
  Building UI components with Vue and TypeScript, backed by deep logic verification experience in Java (Spring) and PHP (Symfony).
+ 
+ Recently, I'm upskilling in `playwright` for future opportunities in QA/SET.
+ - A full-stack MVP project of development environment booking system<br>[![View Repository](https://img.shields.io/badge/Have_a_look-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johnChow-tech/env-booker)
 
 ### 🏗 Infrastructure Awareness:<br>
  Hands-on exposure to Kubernetes (K8s) environments and Airflow migrations.

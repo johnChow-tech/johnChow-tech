@@ -1,7 +1,7 @@
 <div align="center">
 <h1>
     👋こんにちは、
-    <span style="color: #1e90ff;">Chow!</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&center=false&vCenter=true&width=120&lines=Chow!" alt="Chow!" style="vertical-align: middle;">
     です！
   </h1>
   <p>

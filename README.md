@@ -1,11 +1,11 @@
 <div align="center">
 <h1>
     👋こんにちは、
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=1E90FF&center=false&vCenter=true&width=120&lines=Chow!" alt="Chow!" style="vertical-align: middle;">
+    Chow!
     です！
   </h1>
   <p>
-    <strong>QAエンジニア・フロントエンドエンジニア　|　自動化・DX信者</strong>
+    <strong>QAエンジニア・フロントエンドエンジニア　|　自動化・DXマニア</strong>
     <br>
     <strong>QA Engineer & Frontend Developer | Automation & DX admirer</strong>
   </p>
@@ -75,7 +75,7 @@ AI・自動化による検証工程の97%削減など、エンジニアリング
 
 ## 🎮趣味
 - **🎮 ゲーム**: ゲーム: 『Divinity: Original Sin 2』のようなCRPG、テトリス、任天堂のゲームが大好きです。
-- **💬 アニメ・ACG**: 『羅小黒戦記（ロシャオヘイセンキ）』、『ダンジョン飯』、『アイドルマスター シンデレラガールズ』の大ファンです。『羅小黒戦記（ロシャオヘイセンキ）』、『ダンジョン飯』、『アイドルマスター シンデレラガールズ』の大ファンです。
+- **💬 アニメ・ACG**: 『羅小黒戦記（ロシャオヘイセンキ）』、『ダンジョン飯』、『アイドルマスター シンデレラガールズ』の大ファンです。
 - **☕ コーヒー**: マキネッタで淹れる儀式的な時間が好きです（味の良し悪しはあまり分かりませんが！）。
 - **🎞️ 映画**: 映画館の常連で、月に1〜4回は足を運びます。
 - **⛰️ 登山**: 週末は山に逃げ込み、1日中ハイキングを楽しんでいます。
